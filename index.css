@@ -70,7 +70,7 @@
 .overlay {
     height: 95vh;
     width: 100%;
-    background-color: rgba(0,0,0,0.7);
+    /* background-color: rgba(0,0,0,0.7); */
     display: flex;
     align-items: center;
 }
